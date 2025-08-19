@@ -3,15 +3,15 @@
 <h3 align="center">IOS developer in training from Korea🇰🇷, currently based in Japan🇯🇵</h3>
 <h3 align="center">Proficient in Korean, Chinese, and Japanese languages😸</h3>
 
-<h3 align="center">SWIFT</h3>
+<p align="center">SWIFT</p>
 💗 I’m currently working on [TodoApp](https://github.com/kittenit/TodoApp.git) <br>
 🩵 I’m currently working on [NetflixTumbnail](https://github.com/kittenit/NetflixTumbnail.git) <br>
-💛 I’m currently working on [instagramClone](https://github.com/kittenit/instagramClone.git) <br> ➡️ in progress
+💛 I’m currently working on [instagramClone](https://github.com/kittenit/instagramClone.git) ➡️ in progress <br>
 
-<h3 align="center">JAVA</h3>
+<p align="center">JAVA</p>
 🩶 I’m currently working on [MyDiary](https://github.com/kittenit/MyDiary.git)  
 
-<h3 align="center">AND</h3>
+<p align="center">AND</p>
 🌱 I’m currently learning **Swift, Java, SQL, and more**
 
 <h3 align="left">Connect with me:</h3>
