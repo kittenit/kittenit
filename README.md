@@ -6,10 +6,10 @@
 <h3 align="center">SWIFT</h3>
 💗 I’m currently working on [TodoApp](https://github.com/kittenit/TodoApp.git) <br>
 🩵 I’m currently working on [NetflixTumbnail](https://github.com/kittenit/NetflixTumbnail.git) <br>
-💛 I’m currently working on [instagramClone](https://github.com/kittenit/instagramClone.git) <br>
+💛 I’m currently working on [instagramClone](https://github.com/kittenit/instagramClone.git) <br> ➡️ in progress
 
 <h3 align="center">JAVA</h3>
-🩶 I’m currently working on [MyDiary](https://github.com/kittenit/MyDiary.git)  ➡️ in progress
+🩶 I’m currently working on [MyDiary](https://github.com/kittenit/MyDiary.git)  
 
 <h3 align="center">AND</h3>
 🌱 I’m currently learning **Swift, Java, SQL, and more**
