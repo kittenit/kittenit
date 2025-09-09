@@ -3,13 +3,26 @@
 <h3 align="center">IOS developer in training from Korea🇰🇷, currently based in Japan🇯🇵</h3>
 <h3 align="center">Proficient in Korean, Chinese, and Japanese languages😸</h3>
 
-<p align="center">SWIFT</p>
-💗 I’m currently working on [TodoApp](https://github.com/kittenit/TodoApp.git) <br>
-🩵 I’m currently working on [NetflixTumbnail](https://github.com/kittenit/NetflixTumbnail.git) <br>
-💛 I’m currently working on [instagramClone](https://github.com/kittenit/instagramClone.git) ➡️ in progress <br>
+# 👩‍💻 Projects
 
-<p align="center">JAVA</p>
-🩶 I’m currently working on [MyDiary](https://github.com/kittenit/MyDiary.git)  
+- [DessertHub](https://github.com/kittenit/DessertHub)  
+  📌 3-member **team project** — collaborated on frontend, backend, and system design.
+
+- [Portfolio](https://github.com/kittenit/Portfolio)  
+  📌 Personal project built with **HTML, CSS, JavaScript**. Focused on design and animations.
+
+- [TodoApp](https://github.com/kittenit/TodoApp.git)  
+  📌 Built with **Swift** — simple and clean to-do list application.
+
+- [NetflixTumbnail](https://github.com/kittenit/NetflixTumbnail.git)  
+  📌 Built with **Swift** — practice project for UI design inspired by Netflix.
+
+- [instagramClone](https://github.com/kittenit/instagramClone.git)  
+  📌 Built with **Swift** — Instagram clone app (*in progress*).
+
+- [MyDiary](https://github.com/kittenit/MyDiary.git)  
+  📌 Built with **Java** — personal diary web application.
+ 
 
 <p align="center">AND</p>
 🌱 I’m currently learning **Swift, Java, SQL, and more**
