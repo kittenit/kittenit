@@ -5,24 +5,37 @@
 
 # 👩‍💻 Projects
 
-- [DessertHub](https://github.com/kittenit/DessertHub)  
-  📌 3-member **team project** — collaborated on frontend, backend, and system design.
+<div align="center">
 
-- [Portfolio](https://github.com/kittenit/Portfolio)  
-  📌 Personal project built with **HTML, CSS, JavaScript**. Focused on design and animations.
+📌 [DessertHub](https://github.com/kittenit/DessertHub)  
+3-member **team project** — collaborated on frontend, backend, and system design.  
 
-- [TodoApp](https://github.com/kittenit/TodoApp.git)  
-  📌 Built with **Swift** — simple and clean to-do list application.
+---
 
-- [NetflixTumbnail](https://github.com/kittenit/NetflixTumbnail.git)  
-  📌 Built with **Swift** — practice project for UI design inspired by Netflix.
+📌 [Portfolio](https://github.com/kittenit/Portfolio)  
+Personal project built with **HTML, CSS, JavaScript**. Focused on design and animations.  
 
-- [instagramClone](https://github.com/kittenit/instagramClone.git)  
-  📌 Built with **Swift** — Instagram clone app (*in progress*).
+---
 
-- [MyDiary](https://github.com/kittenit/MyDiary.git)  
-  📌 Built with **Java** — personal diary web application.
- 
+📌 [TodoApp](https://github.com/kittenit/TodoApp.git)  
+Built with **Swift** — simple and clean to-do list application.  
+
+---
+
+📌 [NetflixTumbnail](https://github.com/kittenit/NetflixTumbnail.git)  
+Built with **Swift** — practice project for UI design inspired by Netflix.  
+
+---
+
+📌 [instagramClone](https://github.com/kittenit/instagramClone.git)  
+Built with **Swift** — Instagram clone app (*in progress*).  
+
+---
+
+📌 [MyDiary](https://github.com/kittenit/MyDiary.git)  
+Built with **Java** — personal diary web application.  
+
+</div>
 
 <p align="center">AND</p>
 🌱 I’m currently learning **Swift, Java, SQL, and more**
